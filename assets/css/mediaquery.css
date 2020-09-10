@@ -1,0 +1,43 @@
+
+
+@media (max-width: 991px){
+    body{
+        margin-right: -3rem;
+    }
+    .top-content{
+        margin-top: -6rem;
+    }
+    .hero-content{
+        text-align: center;
+    }
+    .hero-text{
+        width: 110%;
+        margin-top: 1rem;
+    }
+    .btn-2{
+        margin: auto;
+    }
+    .underline::after{
+        margin: auto;
+        margin-top: 1.5rem;
+    }
+    .section-4{
+        margin-top: -6rem;
+        margin-left: 1.3rem;
+    }
+   
+    .btnn{
+        margin-top: 1rem;
+    }
+  
+}
+
+@media (max-width: 764px){
+    
+}
+
+@media (max-width: 568px){
+  .cards{
+      margin-left: -0.6rem;
+  }
+}
